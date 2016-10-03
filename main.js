@@ -14,9 +14,9 @@ var setupone=function() {
 	};
 }
 var next=setupone();
-next();
-next();
-next(); 
+alert(next());
+alert(next());
+alert(next()); 
 
 /*var ScareMe=function() {
 	alert("Boo!");
